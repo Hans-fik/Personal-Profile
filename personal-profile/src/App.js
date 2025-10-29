@@ -4,12 +4,13 @@ import ProfileCard from './components/ProfileCard';
 import AboutSection from './components/AboutSection';
 import SkillsSection from './components/SkillsSection';
 import Footer from './components/Footer';
+import Home from './pages/Home';
 
 function App() {
   return (
     <div className="font-sans bg-gray-50 min-h-screen">
       <main className="px-6 py-10">
-        <ProfileCard />
+        <Home />
       </main>
     </div>
   );
