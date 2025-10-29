@@ -17,7 +17,7 @@ This project is part of the Front-End Development learning at **Celerates Indone
 
 
 ## 📷 Preview
-![Preview](./src/assets/images/profile.jpg)
+![alt text](https://github.com/Hans-fik/Personal-Profile/blob/main/personal-profile/src/hasil_ScreenShot/desktop/Screenshot%202025-10-29%20231944.png)
 
 
 ## 👤 Author
